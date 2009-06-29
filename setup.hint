@@ -1,5 +1,5 @@
 category: Audio OCaml
-requires: cygwin libportaudio2 ocaml
+requires: libportaudio2 ocaml
 sdesc: "OCaml PortAudio bindings"
 ldesc: "This package contains an O'Caml interface for the portaudio I/O 
 library."
