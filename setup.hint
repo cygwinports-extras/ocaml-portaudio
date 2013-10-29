@@ -1,5 +1,0 @@
-category: Audio OCaml
-requires: libportaudio2 libportaudio-devel ocaml-base
-sdesc: "OCaml PortAudio bindings"
-ldesc: "This package contains an O'Caml interface for the portaudio I/O 
-library."
