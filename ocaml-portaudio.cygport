@@ -2,7 +2,7 @@ inherit ocaml
 
 NAME="ocaml-portaudio"
 VERSION=0.2.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Libs"
 SUMMARY="OCaml PortAudio bindings"
 DESCRIPTION="This package contains an OCaml interface for the portaudio I/O
